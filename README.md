@@ -1,8 +1,9 @@
 <h1 align="center">Projeto User-Login com React :bulb:</h1>
 <br>
 <h2 align="center">Sobre o projeto :bookmark_tabs:</h2>
-<p align="center">Esse trabalho foi realizado utilizando primordialmente o framework de JavaScript React no front-end, e consumindo uma API de back-end com Node. <br> 
+<p align="center">Esse trabalho foi realizado utilizando primordialmente o framework React no front-end, e consumindo uma API de back-end com Node. <br> 
 Teve como objetivo criar uma tela de registo de usuário, onde é possível inserir o nome e a idade, e esses dados são salvos no back-end, e após exibidos em outra tela da mesma web page. 
+Além disso, esse projeto é uma preparação para um futuro projeto, onde irei criar um aplicativo completo de pedidos para restaurantes, e será possível visualizar o menu, fazer o pedido, alterá-lo, criar um usuário e muitas outras funcionalidades. 
 </p>
 <br>
 
