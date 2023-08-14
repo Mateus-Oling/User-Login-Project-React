@@ -12,8 +12,8 @@ Teve como objetivo criar uma tela de registo de usuário, onde é possível inse
 - Axios para a comunicação com o back-end.
 - Styled Components como biblioteca para estilização dos componentes utilizando CSS-in-JS.</p>
 
-<h2>Testando o projeto</h2>
-<p> O projeto User-Login-Project-React pode ser testado por este link: 
+<h2 align="center">Testando o projeto</h2>
+<p align="center"> O projeto User-Login-Project-React pode ser testado por este link: 
 </p>
 
 <h2 align="center">Imagens</h2>
