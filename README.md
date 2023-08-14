@@ -18,6 +18,8 @@ Teve como objetivo criar uma tela de registo de usuário, onde é possível inse
 </p>
 
 <br>
-<h2 align="center">Imagens</h2> 
+<h2 align="center">Visualização do Projeto</h2> 
+<p> 
+<img src="https://i.postimg.cc/sX94nFz6/imagem-projeto-login-user.png">
+</p>
 
-<img src="![imagem projeto login-user](https://github.com/Mateus-Oling/User-Login-Project-React/assets/135168984/8276a59b-954a-44eb-b975-1280bdca7a9c)">
